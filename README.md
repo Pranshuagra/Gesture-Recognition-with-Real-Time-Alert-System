@@ -1,4 +1,4 @@
-# Human Pose & Gesture Recognition – Safety-Assist System  
+# Human Pose & Gesture Recognition – Safety System with Real-Time Alert System
 ### Real-Time Tracking with MediaPipe Holistic, LSTM & Location-Based Alerts
 
 [![Python version](https://img.shields.io/badge/python-3.x-blue)]()
